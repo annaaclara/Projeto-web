@@ -7,3 +7,4 @@
 4. Caliane
 5. Eduarda
 6. Naiany
+7. Felipe
